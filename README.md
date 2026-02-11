@@ -29,6 +29,13 @@
 ![Avg Invoice](visualizations/AvgInvoice by BillingCountry.png)
 
 ---
+![Revenue by Country](visualizations/TotalRevenue_by_BillingCountry.png)
+
+![Revenue by Genre](visualizations/TotalRevenue_by_Genre.png)
+
+![Top Artists](visualizations/TotalTracksSold_by_Artist.png)
+
+![Average Invoice](visualizations/AvgInvoice_by_BillingCountry.png)
 
 👩‍💻 Aruzhan Amirkhanova  
 Data Analytics Student
